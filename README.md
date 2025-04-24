@@ -1,4 +1,4 @@
-# Stock Analysis with yfinance
+# Downloading Stock data with yfinance
 
 This project provides tools for downloading and analyzing stock market data using the yfinance library.
 
@@ -9,6 +9,7 @@ This project uses [uv](https://docs.astral.sh/uv/getting-started/installation/) 
 ### Setting up with uv
 
 1. **Install uv** (if you haven't already):
+
    check the documentation above for installation instructions.
 
 
@@ -24,8 +25,9 @@ This project uses [uv](https://docs.astral.sh/uv/getting-started/installation/) 
    ```
 
 3. **Install dependencies with uv**:
+   
    ```bash
-  uv add yfinance ipykernel
+   uv add yfinance ipykernel
    ```
    
 
